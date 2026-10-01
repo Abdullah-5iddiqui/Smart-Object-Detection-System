@@ -27,7 +27,7 @@ QLabel {
     QGroupBox {
         border: 2px solid #0078D7;
         border-radius: 5px;
-        margin-top: 6px;
+        margin-top: 5px;
     }
 
     QGroupBox:title {
